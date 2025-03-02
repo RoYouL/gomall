@@ -1,6 +1,6 @@
 kitex:
   service: "product"
-  address: "192.168.124.3:8889"
+  address: "127.0.0.1:8889"
   log_level: info
   log_file_name: "log/kitex.log"
   log_max_size: 10
